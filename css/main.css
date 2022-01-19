@@ -1,0 +1,13 @@
+h1{
+    color: cadetblue;
+}
+p{
+    color: chocolate;
+    font-size: 30px;
+}
+small{
+    display: block;
+}
+h3{
+    display: inline;
+}
